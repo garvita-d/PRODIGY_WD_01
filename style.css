@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(to right, #5ffae0, #c22ed0);
+    background: linear-gradient(to right, #5ffae0, #0ebe78);
     color: #fff;
     transition: background 0.3s, color 0.3s;
   }
@@ -37,12 +37,12 @@ body {
     margin: 0 10px;
     border-radius: 30px;
     transition: background 0.3s, color 0.3s;
-    background: linear-gradient(to right, #9600ff, #a3c9e2);
+    background: linear-gradient(to right, #11ae94, #a3c9e2);
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
   }
   
   #navbar a:hover {
-    background: linear-gradient(to right, #a3c9e2,#9600ff);
+    background: linear-gradient(to right, #a3c9e2,#00b3ff);
     color: black;
   }
   
